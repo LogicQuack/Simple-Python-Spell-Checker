@@ -7,4 +7,4 @@ The relevant keybind is:
 ### [Cmd+P]
 
 ## Requirements 
-Python libraries include spellchecker and pyperclip
+Python libraries include pyspellchecker and pyperclip
